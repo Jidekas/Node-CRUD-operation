@@ -1,0 +1,23 @@
+[
+  {
+    "organization": "Tonie's specialist hospital",
+    "createdAt": "2023-06-15T20:07:25.165Z",
+    "updatedAt": "2023-06-15T20:07:25.165Z",
+    "products": [
+      "developers",
+      "pizza"
+    ],
+    "marketValue": "90%",
+    "address": "Vancouver",
+    "ceo": "cn",
+    "country": "Taiwan",
+    "id": 1,
+    "noOfEmployees": 4,
+    "employees": [
+      "james",
+      "bond",
+      "jackie",
+      "chan"
+    ]
+  }
+]
